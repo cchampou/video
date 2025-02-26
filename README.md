@@ -1,6 +1,7 @@
 # Video
 
-This project is a video converter.
+This project is a video converter. So far this project is just a training project for Golang and architecture practice.
+There is no business or project goal, it's tech driven development.
 
 ## Technical stack
 
